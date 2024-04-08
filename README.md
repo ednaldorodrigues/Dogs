@@ -27,7 +27,7 @@ Desenvolver o Dogs foi uma jornada incrível de aprendizado. Aqui estão alguns 
 
 ## Acesse o projeto
 
-Você pode visualizar e interagir com o Dogs ao vivo através do seguinte link:  [acesse aqui] (https://dogs-blush.vercel.app/)
+Você pode visualizar e interagir com o Dogs ao vivo através do seguinte link:  [acesse aqui](https://dogs-blush.vercel.app/)
 
 Certifique-se de explorar todas as funcionalidades e talvez até compartilhar uma foto do seu amigo canino!
 
